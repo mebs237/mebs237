@@ -19,17 +19,10 @@ Welcome to my GitHub profile!
 
 
 ## Get in Touch
-- 📫 How to reach me:
--
-- 
+###📫 How to reach me:
+[📧 : e-mail](mailto:Prestonne.MebouKoagne@student.umons.ac.be)
+
 <!--
 Fun fact: This README is displayed on my GitHub profile because it's in a repository named after my username!
 -->
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
